@@ -36,3 +36,5 @@
 		hardware ethernet 00:00:00:00:00; (Exemplo de MAC Adress)
 		fixed-address 192.168.100.123; (Exemplo de IP Fixo)
 	}
+	
+![]
