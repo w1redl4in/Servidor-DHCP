@@ -37,4 +37,4 @@
 		fixed-address 192.168.100.123; (Exemplo de IP Fixo)
 	}
 	
-![]
+![](https://github.com/w1redl4in/Servidor-DHCP/blob/master/2019-05-15-175032_1600x900_scrot.png)
