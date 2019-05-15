@@ -1,8 +1,8 @@
-# Instalacao
+# Instalação
     sudo su
     apt install isc-dhcp-server 
     
- # Configurando isc-dhcp-server
+ # Configuração do isc-dhcp-server
     cd /etc/default/
     nano isc-dhcp-server
    ## Ubuntu 18: 
@@ -11,7 +11,7 @@
    ## Ubuntu 14:
       INTERFACES="eth2" (Interface do Cliente)
       
- # Configurando dhcpd.conf
+ # Configuração do dhcpd.conf
     cd /etc/dhcp/
     nano dhcpd.conf
     
