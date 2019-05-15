@@ -31,7 +31,7 @@
   ## Ubuntu 14:
       service isc-dhcp-server restart
     
-# Reservando IP 
+# Reserva de IP 
 	host nomedodispositivo{
 		hardware ethernet 00:00:00:00:00; (Exemplo de MAC Adress)
 		fixed-address 192.168.100.123; (Exemplo de IP Fixo)
