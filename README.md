@@ -20,10 +20,10 @@
      log-facility local7;
      option domain-name-servers 192.168.10.10
      subnet 192.168.110.0 netmask 255.255.255.0 {
-	      range 192.168.110.11 192.168.110.253
-	      option broadcast-address 192.168.110.255
-	      option routers 192.168.110.254
-	      option domain-name "lain.intranet"  
+	      range 192.168.110.11 192.168.110.253;
+	      option broadcast-address 192.168.110.255;
+	      option routers 192.168.110.254;
+	      option domain-name "lain.intranet";  
      }
 # Reiniciando o DHCP
   ## Ubuntu 18: 
