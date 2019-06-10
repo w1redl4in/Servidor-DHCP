@@ -38,3 +38,6 @@
 	}
 	
 ![](https://github.com/w1redl4in/Servidor-DHCP/blob/master/2019-05-15-175032_1600x900_scrot.png)
+
+ # Vídeo Prático
+   [YouTube](https://youtu.be/9-2p9Ib4B6w)
